@@ -1,3 +1,3 @@
 # AlunoTP
 
-Atividade repositório GitLab
+Repositório de exercícios das aulas de Técnicas de Programação
